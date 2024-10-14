@@ -1,0 +1,16 @@
+2024/10/11 19:30:58 engine.go:57: Engine Start start
+2024/10/11 19:30:58 engine.go:29: Engine Run start
+2024/10/11 19:30:58 engine.go:123: Engine NewGame start
+2024/10/11 19:30:58 engine.go:143: Engine NewGame end
+2024/10/11 19:33:58 engine.go:86: Engine Start end
+2024/10/11 19:33:58 view.go:31: View Stop start
+2024/10/11 19:33:58 engine.go:52: Engine Run end
+2024/10/11 19:33:58 view.go:35: View Stop end
+2024/10/11 19:34:00 engine.go:57: Engine Start start
+2024/10/11 19:34:00 engine.go:29: Engine Run start
+2024/10/11 19:34:00 engine.go:123: Engine NewGame start
+2024/10/11 19:34:00 engine.go:143: Engine NewGame end
+2024/10/11 19:37:19 engine.go:86: Engine Start end
+2024/10/11 19:37:19 view.go:31: View Stop start
+2024/10/11 19:37:19 engine.go:52: Engine Run end
+2024/10/11 19:37:19 view.go:35: View Stop end

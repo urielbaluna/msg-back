@@ -5,7 +5,25 @@
     "crypto": "^1.0.1",
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
+    "nodemon": "^3.1.7",
     "path": "^0.12.7",
     "socket.io": "^4.8.0"
-  }
+  },
+  "name": "msg-back",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urielbaluna/msg-back.git"
+  },
+  "author": "Uriel Barrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urielbaluna/msg-back/issues"
+  },
+  "homepage": "https://github.com/urielbaluna/msg-back#readme",
+  "description": ""
 }
